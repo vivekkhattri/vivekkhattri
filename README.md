@@ -6,3 +6,10 @@
 
 ## 🚀 Skills
 - Java | Spring | Hybris | JavaScript | Python | VS Code | AI Tools
+## 🎓 Certifications & Skills
+
+[![](https://img.shields.io/badge/GitHub-Copilot-blue?logo=github)](https://copilot.github.com)
+
+- 💻 **GitHub Copilot Certified**  
+  🗓️ Passed: June 28, 2025  
+  🏢 Issuer: GitHub  
